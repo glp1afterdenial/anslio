@@ -3,7 +3,7 @@ export const siteConfig = {
   tagline: "Your website should be fast, not expensive.",
   email: "hello@anslio.com",
   location: "Jacksonville, FL",
-  gaId: "",
+  gaId: "G-T58JGNRWND",
   formspreeId: "mykngbjn",
   social: {
     twitter: "",
