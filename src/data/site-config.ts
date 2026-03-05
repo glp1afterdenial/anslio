@@ -4,7 +4,7 @@ export const siteConfig = {
   email: "hello@anslio.com",
   location: "Jacksonville, FL",
   gaId: "",
-  formspreeId: "",
+  formspreeId: "mykngbjn",
   social: {
     twitter: "",
     linkedin: "",
